@@ -25,3 +25,9 @@ Data stored in JSON file (persistent storage)
 ---
 
  Project Structure
+ 
+ibrary-book-tracker/
+│
+├── main.py # Main Python script
+├── books.json # Stores book data
+└── README.md # Project documentation
